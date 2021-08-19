@@ -1,0 +1,14 @@
+a {
+    background: ghostwhite;
+}
+
+button {
+    position: relative;
+    text-align: center;
+    right: 0%;
+}
+
+.col {
+    padding-right: 15px;
+    padding-left: 15px;
+}
